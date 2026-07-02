@@ -2,7 +2,20 @@
 
 
     "type": "module",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+
+
+    "dependencies": {
+
+
+        "cookie-parser": "^1.4.7",
+
+
+        "express": "^5.2.1"
+
+
+    }
+
+
 }
+
+
